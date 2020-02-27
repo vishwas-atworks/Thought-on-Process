@@ -4,7 +4,7 @@ In this space, I would be putting my thoughts, observations about the software p
 
 ## Getting Started
 
-Before we get started, I am scrutinizing our process into 7 practice areas i.e:
+Before we get started, I am scrutinizing our process into 9 practice areas i.e:
 
 ### Requirements
 ### Architecture
@@ -13,3 +13,5 @@ Before we get started, I am scrutinizing our process into 7 practice areas i.e:
 ### Configuration
 ### Planning and tracking
 ### Risk Management
+### Production Support
+### Customer Onboarding
