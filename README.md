@@ -33,6 +33,9 @@ Let us follow standard notations for drawing architecture diagram
 Identify Quality attributes --> What quality attributes can you support right now?
 
 ### Development
+
+Process for UX integration
+
 ### Quality
 
 Verification strategy:
@@ -41,8 +44,14 @@ Quality Atrributes
 
 Performance test
 
-### Configuration
+### Configuration Management
+
+
 ### Planning and tracking
+
+Burn down charts
+Code freeze
+
 ### Risk Management
 ### Production Support
 ### Customer Onboarding
