@@ -1,4 +1,4 @@
-# Thought-on-Process
+# My thoughts on process
 
 In this space, I would be putting my thoughts, observations about the software process we follow and add some suggestions about changes we can make.
 
