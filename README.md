@@ -30,13 +30,26 @@ It should goal model, use cases - so that a developer/designer understands the b
 Our Architecture is scalable, extensible and can handle need of growning markets. Let us have/review our architecture diagrams to match the Architectural diagrams and have various views of our software.
 
 Let us follow standard notations for drawing architecture diagram
-Identify Quality attributes
+Identify Quality attributes --> What quality attributes can you support right now?
 
 ### Development
 ### Quality
+
+Verification strategy:
+Functionality
+Quality Atrributes
+
+Performance test
+
 ### Configuration
 ### Planning and tracking
 ### Risk Management
 ### Production Support
 ### Customer Onboarding
+
+I am customer, just walk in to the 
 ### Research
+Create a culture of innovation. No one needs a cheaper version of SAP - may be they do, but keywords do sell in the VC market.
+Blockchain based database.
+Integrate with IoT (from Jin's slide)
+Every one wants TV, but smart TV with Airplay is much better than traditional one.
