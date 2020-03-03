@@ -21,7 +21,12 @@ Before we get started, I am scrutinizing our process into 9 practice areas i.e:
 
 ### Requirements
 
-Requirements should not talk about implementation details. It should just focus on conveying requeirements in plain english rather than diving into the impelmentation details.
+Requirements/Product Manager (Victor/Savio)
+Lead the process of requirements elicitation and consolidation.
+Responsible for requirements change management 
+
+
+Requirements should not talk about implementation details. It should just focus on conveying requeirements in plain english rather than diving into the impelmentation details. Even if these requirements are coming from someone who can write code.
 
 It should goal model, use cases - so that a developer/designer understands the business scenario and is able to comprehend the how does this requirement fits into existing architecture.
 
