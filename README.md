@@ -63,8 +63,8 @@ Code freeze
 
 There are various axes on which a scheduled delivery might be at risk.
 
-####Technical issues
-####Non Technical issues
+#### Technical issues
+#### Non Technical issues
 
 ### Production Support
 ### Customer Onboarding
