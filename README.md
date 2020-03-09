@@ -49,6 +49,8 @@ Quality Atrributes
 
 Performance test
 
+Have set of test cases marked for various release. Even if it is smoke test we should know what works and what doesn't in our
+
 ### Configuration Management
 
 
