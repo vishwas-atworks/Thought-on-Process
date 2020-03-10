@@ -56,6 +56,19 @@ Performance test
 
 Have set of test cases marked for various release. Even if it is smoke test we should know what works and what doesn't in our
 
+Have templates for creating bug tickets:
+#### QA
+Write in ticket:
+What failed?
+Modules affected, affect on customer
+Test cases that you expect to pass
+
+#### Developer
+Write in ticket:
+What you have fixed?
+How you have fixed?
+Test cases you executed to make sure the fix is correct and complete
+
 ### Configuration Management
 
 
