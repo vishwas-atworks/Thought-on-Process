@@ -25,8 +25,8 @@ Requirements/Product Manager (Victor/Savio)
 Lead the process of requirements elicitation and consolidation.
 Responsible for requirements change management 
 
-
 Requirements should not talk about implementation details. It should just focus on conveying requeirements in plain english rather than diving into the impelmentation details. Even if these requirements are coming from someone who can write code.
+Implementation details need to go in Architecture and design documents. The idea is to ensure requirements traceability.
 
 It should goal model, use cases - so that a developer/designer understands the business scenario and is able to comprehend the how does this requirement fits into existing architecture.
 
@@ -40,6 +40,9 @@ Identify Quality attributes --> What quality attributes can you support right no
 ### Development
 
 Process for UX integration
+
+No commented code to be checked in. 
+Keep the code clean.
 
 ### Quality
 
