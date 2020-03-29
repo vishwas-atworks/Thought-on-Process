@@ -46,6 +46,9 @@ Process for UX integration
 No commented code to be checked in. 
 Keep the code clean.
 
+Java Doc,
+by dfault code should be standard to OneLynk.
+
 ### Quality
 
 Verification strategy:
