@@ -4,7 +4,9 @@ In this space, I would be putting my thoughts, observations about the software p
 
 My suggestions is that, we make our processes so solid that we can pitch even to the investors that we have an awesome product and a team of talented developers and cogent process in place. We are a candidate company to invest in.
 
-The goal of this document is to provide actionable items so that we become better with the process. Idea is, that we should already have an action documented for a scenario that arises, thus minimizing leadership
+The goal of this document is to provide actionable items so that we become better with the process. Idea is, that we should already have an action documented for a scenario that arises, thus minimizing involvement of leadership in nitty gritty affairs, which could be solved among team mates.
+
+We are start up, so we won't follow the process.
 
 ## Getting Started
 
