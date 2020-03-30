@@ -34,6 +34,8 @@ Implementation details need to go in Architecture and design documents. The idea
 
 It should goal model, use cases - so that a developer/designer understands the business scenario and is able to comprehend the how does this requirement fits into existing architecture.
 
+Involve QA earlier in Requirements process, developers should not dictate the requirements. A demo of newly developed functionality is fine but  QA is the final gatekeeper to check if quality expectationsa are met.
+
 ### Architecture
 
 Our Architecture is scalable, extensible and can handle need of growning markets. Let us have/review our architecture diagrams to match the Architectural diagrams and have various views of our software.
