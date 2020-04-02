@@ -95,6 +95,8 @@ There are various axes on which a scheduled delivery might be at risk.
 ### Customer Onboarding
 
 I am customer, just walk in to the 
+-  Have a demo environment. With all the data set up.
+
 ### Research
 Create a culture of innovation. No one needs a cheaper version of SAP - may be they do, but keywords do sell in the VC market.
 Blockchain based database.
