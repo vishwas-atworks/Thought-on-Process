@@ -58,6 +58,7 @@ Developer education : state management
 Code review rules:
 - Design changes 
 - Code review
+- Did you make the code better?
 
 ### Quality
 
