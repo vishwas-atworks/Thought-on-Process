@@ -55,6 +55,10 @@ by dfault code should be standard to OneLynk.
 
 Developer education : state management
 
+Code review rules:
+- Design changes 
+- Code review
+
 ### Quality
 
 Verification strategy:
