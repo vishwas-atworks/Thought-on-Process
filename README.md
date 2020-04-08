@@ -53,6 +53,8 @@ Keep the code clean.
 Java Doc,
 by dfault code should be standard to OneLynk.
 
+Developer education : state management
+
 ### Quality
 
 Verification strategy:
