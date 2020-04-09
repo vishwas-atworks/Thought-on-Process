@@ -60,6 +60,16 @@ Code review rules:
 - Code review
 - Did you make the code better?
 
+Template
+
+What was the issue?
+Business Impact
+Technical Impact
+Did you make any design changes
+Did you make changes to API?
+Did you make the code better?
+
+
 ### Quality
 
 Verification strategy:
