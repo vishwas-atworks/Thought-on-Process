@@ -94,7 +94,9 @@ How you have fixed?
 Test cases you executed to make sure the fix is correct and complete
 
 ### Configuration Management
-Database
+Database..
+
+Make it a developers responsbility to get there code merged into active branches. We can look into, if there should PR against each active branch.
 
 ### Planning and tracking
 
